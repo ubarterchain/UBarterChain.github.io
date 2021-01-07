@@ -30,9 +30,6 @@ layout: page
   
     ## [互换君区块链基金会](/python-numpy-tutorial/) ##
 
-This site is meant to serve as a directory for the amazing content the
-community has created around the Data Science Specialization. If you are
-interested in contributing [click here](https://github.com/DataScienceSpecialization/DataScienceSpecialization.github.io#contributing).
 
 1. [The Data Scientist’s Toolbox](/toolbox/)
 2. [R Programming](/rprog/)
