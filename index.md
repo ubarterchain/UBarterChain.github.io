@@ -1,7 +1,10 @@
 ---
 layout: page
+
 ---
-`[定物品的所有权的](/python-numpy-tutorial/)  [定物品的所有权的](/python-numpy-tutorial/)  [定物品的所有权的](/python-numpy-tutorial/)`
+
+[定物品的所有权的](/python-numpy-tutorial/)  [定物品的所有权的](/python-numpy-tutorial/)  [定物品的所有权的](/python-numpy-tutorial/)
+
 ---
 # 互换君区块链 #
 
@@ -30,6 +33,12 @@ layout: page
 - 互换君采取的交易方式基本上就是由代表特 [定物品的所有权的](/python-numpy-tutorial/) 一张或多张支票转给另外的一张或多张支票，并且将整个过程完整永久记录下来和公布与众，由全系统所有参与者共同公证和监督交易过程和物品存放。
   
     ## [互换君区块链基金会](/python-numpy-tutorial/) ##
+    
+| Number  |    Points       |
+| ------  | -----------     |
+|   1     | Eve Jackson 94  |
+|   2     | John Doe 80     |
+|   3     | Adam Johnson 67 |
 
 
 1. [The Data Scientist’s Toolbox](/toolbox/)
