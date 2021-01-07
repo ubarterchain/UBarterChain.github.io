@@ -34,11 +34,11 @@ layout: page
   
     ## [互换君区块链基金会](/python-numpy-tutorial/) ##
     
-|         |                 |
-| ------  | -----------     |
-|   1     | Eve Jackson 94  |
-|   2     | John Doe 80     |
-|   3     | Adam Johnson 67 |
+|         |                                           |
+| ------  | --------------                            |
+|   1     | [定物品的所有权的](/python-numpy-tutorial/) |
+|   2     | [定物品的所有权的](/python-numpy-tutorial/) |
+|   3     | [定物品的所有权的](/python-numpy-tutorial/) |
 
 
 1. [The Data Scientist’s Toolbox](/toolbox/)
