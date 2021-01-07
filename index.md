@@ -1,9 +1,10 @@
 ---
+<!—
 layout: page
+-->
 ---
 
-
-    [定物品的所有权的](/python-numpy-tutorial/)       [定物品的所有权的](/python-numpy-tutorial/)    [定物品的所有权的](/python-numpy-tutorial/)                         
+ [定物品的所有权的](/python-numpy-tutorial/) [定物品的所有权的](/python-numpy-tutorial/) [定物品的所有权的](/python-numpy-tutorial/)                         
 # 互换君区块链 #
 
 ##  互换君具有如下几方面特征: ##
