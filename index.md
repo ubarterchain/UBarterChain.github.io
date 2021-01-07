@@ -3,9 +3,7 @@ layout: page
 ---
 
  ["链接一"](/https://sites.google.com/view/ubarter/)  ["链接二"](/python-numpy-tutorial/)  
- <!—
- ["链接三"](/python-numpy-tutorial/)
--->
+ <!— ["链接三"](/python-numpy-tutorial/) -->
 ---
 # 互换君区块链 #
 
