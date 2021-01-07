@@ -28,7 +28,7 @@ layout: page
 - 互换君鼓励上市者通过百分之百与实际物品锚定，并且委托专业托管机构进行全过程托管来提高其上市物品的信誉。
 - 互换君采取的交易方式基本上就是由代表特定物品的所有权的一张或多张支票转给另外的一张或多张支票，并且将整个过程完整永久记录下来和公布与众，由全系统所有参与者共同公证和监督交易过程和物品存放。
   
-## [互换君区块链基金会](/python-numpy-tutorial/) ##
+    ## [互换君区块链基金会](/python-numpy-tutorial/) ##
 
 This site is meant to serve as a directory for the amazing content the
 community has created around the Data Science Specialization. If you are
