@@ -34,7 +34,7 @@ layout: page
   
     ## [互换君区块链基金会](/python-numpy-tutorial/) ##
     
-| Number  |    Points       |
+|         |                 |
 | ------  | -----------     |
 |   1     | Eve Jackson 94  |
 |   2     | John Doe 80     |
