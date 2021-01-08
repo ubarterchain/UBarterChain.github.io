@@ -3,9 +3,11 @@ layout: page
 title: 了解使用
 permalink: /learn/
 ---
+---
 
 ["首页"](https://ubarterchain.github.io/) ["互换信息"](/info/)  ["物品介绍"](/list/)   ["安装调试"](/install/)   ["了解使用"](/learn/) 
 
+---
 ---
 
 # 了解使用 #
@@ -25,6 +27,7 @@ permalink: /learn/
     - 公告：实现各种信息发表的公告栏.
  ```   
     
+---
 ---
 
 ["首页"](https://ubarterchain.github.io/) ["互换信息"](/info/)  ["物品介绍"](/list/)   ["安装调试"](/install/)   ["了解使用"](/learn/) 
