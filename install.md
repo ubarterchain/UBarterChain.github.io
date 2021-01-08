@@ -10,7 +10,7 @@ permalink: /install/
 
 # 安装调试 #
 
-###安装互换君市场节点终端:###
+### 安装互换君市场节点终端: ###
 
 1. 下载easychain.zip在 https://github.com/ubarterchain/UBarterChain3/blob/master/easychain.zip
 2. 解压缩easychain.zip，将其内easychain文件夹取出放到电脑桌面。
@@ -23,7 +23,7 @@ permalink: /install/
 
 ---
 
-###同步互换君市场数据:###
+### 同步互换君市场数据: ### 
 
 为了加快节点客户端数据的同步，可以用解压缩的含有预先下载的部分区块的Easycoin文件替代现有的Easycoin。方法如下：
 1. 下载Easycoin在 https://github.com/ubarterchain/UBarterChain3/blob/master/Easycoin.zip 
