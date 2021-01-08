@@ -12,6 +12,10 @@ permalink: /learn/
 
 ---
 
+["设置"](/setting/)  ["浏览"](/browser/)   ["账户"](/account/)   ["市场"](/market/)   ["公告"](/note/) 
+
+---
+
 <div class='fig figcenter fighighlight'>
   <img src='/11.png'>
 </div>
