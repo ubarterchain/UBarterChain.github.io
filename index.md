@@ -8,9 +8,6 @@ layout: page
 # 互换君区块链 #
 
 ---
-<!—
-   This is my new comment
--->
 
 <div class='fig figcenter fighighlight'>
   <img src='/11.png'>
