@@ -10,7 +10,7 @@ permalink: /note/
 ---
 ---
 
-# 公告 #
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  # 公告 #
 
 ---
 ---
