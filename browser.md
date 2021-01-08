@@ -13,25 +13,13 @@ permalink: /browser/
 ---
 
 <div class='fig figcenter fighighlight'>
-  <img src='/11.png'>
+  <img src='/21.png'>
 </div>
 
 ---
 
 <div class='fig figcenter fighighlight'>
-  <img src='/12.png'>
-</div>
-
----
-
-<div class='fig figcenter fighighlight'>
-  <img src='/13.png'>
-</div>
-
----
-
-<div class='fig figcenter fighighlight'>
-  <img src='/14.png'>
+  <img src='/22.png'>
 </div>
 
 ---
