@@ -1,5 +1,7 @@
 ---
 layout: page
+title: 首页
+permalink: /index/
 ---
 
  ["首页"](/index/)  ["互换信息"](/info/)  ["物品介绍"](/list/)   ["安装调试"](/install/)   ["了解使用"](/learn/) 
