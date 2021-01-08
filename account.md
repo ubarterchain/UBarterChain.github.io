@@ -16,7 +16,7 @@ permalink: /account/
 ---
 
 ### 账户页由四个分页组成:  ###
-支票簿分页， [交易记录分页](/account.md#%E4%BA%A4%E6%98%93%E8%AE%B0%E5%BD%95%E5%88%86%E9%A1%B5)，[账户总汇分页](/account.md#账户总汇)， [信息加密分页](/account.md#%E4%BF%A1%E6%81%AF%E5%8A%A0%E5%AF%86)
+支票簿分页， [交易记录分页](/account.md#交易记录分页)，[账户总汇分页](/account.md#账户总汇分页)， [信息加密分页](/account.md#信息加密分页)
 
 ---
 ---
@@ -58,7 +58,7 @@ permalink: /account/
 ---
 ---
 
-#### 账户总汇: ####
+#### 账户总汇分页: ####
 个人拥有的各种产品的数量总汇
 
 <div class='fig figcenter fighighlight'>
@@ -71,7 +71,7 @@ permalink: /account/
 ---
 ---
 
-#### 信息加密: ####
+#### 信息加密分页: ####
 对特定信息进行加密处理; 对特定密语进行验证。
 
 <div class='fig figcenter fighighlight'>
