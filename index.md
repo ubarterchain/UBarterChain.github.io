@@ -13,7 +13,7 @@ layout: page
 -->
 
 <div class='fig figcenter fighighlight'>
-  <img src='/assets/cat_tinted_imshow.png'>
+  <img src='/11.png'>
 </div>
 
 ##  互换君具有如下几方面特征: ##
