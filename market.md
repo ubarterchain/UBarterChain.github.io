@@ -81,5 +81,6 @@ permalink: /market/
 - 交易完成，交易代码将显示在8内。
                    
 ---
+---
 
 ["首页"](https://ubarterchain.github.io/) ["互换信息"](/info/)  ["物品介绍"](/list/)   ["安装调试"](/install/)   ["了解使用"](/learn/) 
