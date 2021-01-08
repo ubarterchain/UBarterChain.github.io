@@ -16,7 +16,7 @@ permalink: /account/
 ---
 
 ### 账户页由四个分页组成:  ###
-支票簿分页， 交易记录分页，账户总汇分页， 信息加密分页
+支票簿分页， 交易记录分页，账户总汇分页， [信息加密分页](https://github.com/ubarterchain/UBarterChain.github.io/blob/main/account.md#%E4%BF%A1%E6%81%AF%E5%8A%A0%E5%AF%86)
 
 ---
 ---
