@@ -12,6 +12,10 @@ permalink: /setting/
 
 ---
 
+##### 设置页由四个分页组成：##### 市场简介分页， 市场运行分页，  银行设置分页， 节点设置分页
+ 
+---
+
 <div class='fig figcenter fighighlight'>
   <img src='/11.png'>
 </div>
