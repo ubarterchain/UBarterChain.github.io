@@ -33,3 +33,7 @@ permalink: /install/
 
 或者，通过查找节点客户端的调试文件（debug file)来找到该数据的存放目录地址。方法如下：
 在调试文件中找到含有“CDBEnv::Open:”的哪一行，该段文字后的部分就是数据存放的目录地址。例如下列LogDir=C:\Users\yongr\AppData\Roaming\Easycoin\wallets\database其中的C:\Users\yongr\AppData\Roaming\部分。
+
+---
+
+["首页"](https://ubarterchain.github.io/) ["互换信息"](/info/)  ["物品介绍"](/list/)   ["安装调试"](/install/)   ["了解使用"](/learn/) 
