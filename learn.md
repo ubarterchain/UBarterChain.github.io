@@ -12,6 +12,7 @@ permalink: /learn/
 # 了解使用 #
 
 ---
+---
 
 ["设置"](/setting/)  ["浏览"](/browser/)   ["账户"](/account/)   ["市场"](/market/)   ["公告"](/note/) 
 
