@@ -10,6 +10,8 @@ permalink: /install/
 
 # 安装调试 #
 
+---
+
 ### 安装互换君市场节点终端: ###
 
 1. 下载easychain.zip在 https://github.com/ubarterchain/UBarterChain3/blob/master/easychain.zip
