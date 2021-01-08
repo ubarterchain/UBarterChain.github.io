@@ -9,10 +9,6 @@ layout: page
 
 ---
 
-<div class='fig figcenter fighighlight'>
-  <img src='/11.png'>
-</div>
-
 ##  互换君具有如下几方面特征: ##
 
 ##  1. 互换君是一个统一的市场系统 ## 
