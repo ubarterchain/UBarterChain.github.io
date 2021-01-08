@@ -5,7 +5,7 @@ permalink: /note/
 ---
 ---
 
-["首页"](https://ubarterchain.github.io/) '   ' ["互换信息"](/info/) '   ' ["物品介绍"](/list/)  '   ' ["安装调试"](/install/) '   '  ["了解使用"](/learn/) 
+["首页"](https://ubarterchain.github.io/) &nbsp&nbsp&nbsp ["互换信息"](/info/) &nbsp&nbsp&nbsp ["物品介绍"](/list/)  &nbsp&nbsp&nbsp ["安装调试"](/install/) &nbsp&nbsp&nbsp ["了解使用"](/learn/) 
 
 ---
 ---
