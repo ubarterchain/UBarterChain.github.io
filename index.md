@@ -2,7 +2,7 @@
 layout: page
 ---
 
- ["链接一"](https://sites.google.com/view/ubarter)  ["链接二"](https://github.com/ubarterchain/ubarter/blob/master/easychain.zip)  ["链接三"](https://www.yahoo.com/) 
+ ["首页"](/index/)  ["互换信息"](/info/)  ["物品介绍"](/list/)   ["安装调试"](/install/)   ["了解使用"](/learn/) 
 
 ---
 # 互换君区块链 #
