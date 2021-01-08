@@ -3,7 +3,7 @@ layout: page
 ---
 ---
 
-&#160; &#160; &#160; &Tab; ["首页"](https://ubarterchain.github.io/) &Tab; ["互换信息"](/info/) &Tab; ["物品介绍"](/list/) &Tab;  ["安装调试"](/install/) &Tab;  ["了解使用"](/learn/) 
+&#9; &#9; &#9; &Tab; ["首页"](https://ubarterchain.github.io/) &Tab; ["互换信息"](/info/) &Tab; ["物品介绍"](/list/) &Tab;  ["安装调试"](/install/) &Tab;  ["了解使用"](/learn/) 
 
 ---
 ---
