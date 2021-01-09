@@ -15,7 +15,7 @@ permalink: /install/
 ---
 ---
 
-### 安装互换君市场节点终端: &#160;&#160;&#160; &#160;&#160;&#160; [参考视频](https://www.youtube.com/watch?v=XxMdz7082yo&t=16s) ###
+### 安装互换君市场节点终端: &#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160; [(参考视频)](https://www.youtube.com/watch?v=XxMdz7082yo&t=16s) ###
 
 1. 下载easychain.zip在 [这里](https://github.com/ubarterchain/UBarterChain3/blob/master/easychain.zip)
 2. 解压缩easychain.zip，将其内easychain文件夹取出放到电脑桌面。
@@ -26,10 +26,10 @@ permalink: /install/
 
 ---
 
-### 同步互换君市场数据: ### 
+### 同步互换君市场数据: &#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160; [(参考视频)](https://www.youtube.com/watch?v=XxMdz7082yo&t=16s) ### 
 
 为了加快节点客户端数据的同步，可以用解压缩的含有预先下载的部分区块的Easycoin文件替代现有的Easycoin。方法如下：
-1. 下载Easycoin在 https://github.com/ubarterchain/UBarterChain3/blob/master/Easycoin.zip 
+1. 下载Easycoin在 [这里](https://github.com/ubarterchain/UBarterChain3/blob/master/Easycoin.zip)
 2. 将其解压缩后放在目录地址C:\Users\xxxx\AppData\Roaming, 其中xxxx部分会是你的电脑名字。
 
 或者，通过查找节点客户端的调试文件（debug file)来找到该数据的存放目录地址。方法如下：
