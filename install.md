@@ -34,6 +34,9 @@ permalink: /install/
 
 或者，通过查找节点客户端的调试文件（debug file)来找到该数据的存放目录地址。方法如下：
 在调试文件中找到含有“Default data directory”的哪一行，该段文字后的部分就是数据存放的目录地址。例如下列Default data directory C:\Users\yongr\AppData\Roaming\Easycoin其中的C:\Users\yongr\AppData\Roaming\部分就是Easycoin将要存放的目录。
+<div class='fig figcenter fighighlight'>
+  <img src='/01.png'>
+</div>
 
 ---
 ---
