@@ -33,7 +33,7 @@ permalink: /install/
 2. 将其解压缩后放在目录地址C:\Users\xxxx\AppData\Roaming, 其中xxxx部分会是你的电脑名字。
 
 或者，通过查找节点客户端的调试文件（debug file)来找到该数据的存放目录地址。方法如下：
-在调试文件中找到含有“CDBEnv::Open:”的哪一行，该段文字后的部分就是数据存放的目录地址。例如下列LogDir=C:\Users\yongr\AppData\Roaming\Easycoin\wallets\database其中的C:\Users\yongr\AppData\Roaming\部分。
+在调试文件中找到含有“Default data directory”的哪一行，该段文字后的部分就是数据存放的目录地址。例如下列Default data directory C:\Users\May\AppData\Roaming\Easycoin其中的C:\Users\yongr\AppData\Roaming\部分就是Easycoin将要存放的目录。
 
 ---
 ---
