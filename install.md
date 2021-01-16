@@ -15,7 +15,7 @@ permalink: /install/
 ---
 ---
 
-### 安装换易链市场节点终端: &#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160; [(参考视频)](https://www.youtube.com/watch?v=XxMdz7082yo&t=16s) ###
+### 安装换易链市场节点终端: ###
 
 1. 下载Easychain.zip在 [这里](https://github.com/ubarterchain/UBarterChain3/blob/master/Easychain.zip)。  (然后点击打开页面的右侧的“Download”即可自动下载）
 2. 解压缩Easychain.zip，将其内Easychain文件夹取出放到电脑桌面。
@@ -24,6 +24,10 @@ permalink: /install/
 注意：
 运行节点客户端后，若长时间无法实现数据同步，请参考下述同步换易链市场的数据。
 
+##### (参考视频) #####
+<div class='fig figcenter fighighlight'>
+  <img src='/install.mp4'>
+</div>
 ---
 
 ### 同步换易链市场数据: &#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160; [(参考视频)](https://www.youtube.com/watch?v=XxMdz7082yo&t=16s) ### 
