@@ -30,7 +30,7 @@ permalink: /install/
 
 为了加快节点客户端数据的同步，可以用解压缩的含有预先下载的部分区块的Easycoin文件替代现有的Easycoin。方法如下：
 1. 下载Easycoin在 [这里](https://github.com/ubarterchain/UBarterChain3/blob/master/Easycoin.zip)
-2. 将其解压缩后放在目录地址C:\Users\xxxx\AppData\Roaming, 其中xxxx部分会是你的电脑名字，例如yongr。
+2. 将其解压缩后放在目录地址C:\Users\xxxx\AppData\Roaming取代已有的Easycoin文件, 目录地址中xxxx部分应该是你的电脑名字，例如yongr。
 
 或者，通过查找节点客户端的调试文件（debug file)来找到该数据的存放目录地址。方法如下：
 在调试文件中找到含有“Default data directory”的哪一行，该段文字后的部分就是数据存放的目录地址。例如下列Default data directory C:\Users\yongr\AppData\Roaming\Easycoin其中的C:\Users\yongr\AppData\Roaming\部分就是Easycoin将要存放的目录。
