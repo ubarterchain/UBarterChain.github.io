@@ -21,7 +21,7 @@ permalink: /market/
 ---
 ---
 
-#### 传送分页： ####
+#### 传送分页：<img src='/11/1101.png'><img src='/11/1102.png'> ####
 将存在多达十个自有支票里的指定品种和数量的代币，传送给多达十个接受者。
 
 <div class='fig figcenter fighighlight'>
