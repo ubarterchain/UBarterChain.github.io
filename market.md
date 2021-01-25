@@ -98,7 +98,7 @@ permalink: /market/
 
 #### 兑现分页： ####
 点击“市场”页; <img src='/11/1101.png'> 然后点击“传送”分页; <img src='/14/1400.png'>
-可以对自己拥有的指定数量的某一种代币向拥有者进行兑现。
+可以对自己拥有的指定数量的某一种代币向代币发行者进行兑现。
 
 <div class='fig figcenter fighighlight'>
   <img src='/44.png'>
