@@ -22,7 +22,7 @@ permalink: /airdrop/
 - 💸20 HCS   💰$ 10
 - Remarks: Listing on Pancakeswap
 - Focus: Distributed on May 1
-= 🤖Start bot: https://t.me/CatsSwapAirdropBot?start=1011404361
+- 🤖Start bot: https://t.me/CatsSwapAirdropBot?start=1011404361
 - 📖 Step-by-step guide:
 🔹 Join on Telegram Group and Channel.
 🔹 Follow Twitter and Retweet the Post.
