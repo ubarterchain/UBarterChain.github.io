@@ -9,4 +9,14 @@ permalink: /airdrop/
 ---
 ---
 03/14/2021
+
+SmileTokens: 
+-💸 1 💰 Value: $ 15     ⏰ 2 Minutes
+-🤖Start bot: https://t.me/smiletokensbot?start=r04145057560
+-📖 Step-by-step guide:
+-🔹️ Join our telegram chat and channel
+-🔹️ Follow our Twitter page and Retweet recent posts
+-🔹️ send your BEP20 wallet
+
+
 ---
