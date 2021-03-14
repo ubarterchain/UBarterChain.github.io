@@ -9,7 +9,7 @@ permalink: /airdrop/
 ---
 ---
 03/14/2021
-
+---
 - SmileTokens: 
 - 💸 1 💰 Value: $ 15     ⏰ 2 Minutes
 - 🤖Start bot: https://t.me/smiletokensbot?start=r04145057560
@@ -17,8 +17,16 @@ permalink: /airdrop/
 - 🔹️ Join our telegram chat and channel
 - 🔹️ Follow our Twitter page and Retweet recent posts
 - 🔹️ send your BEP20 wallet
--
--
-
-
+---
+- Help Coins (HCS) 
+- 💸20 HCS   💰$ 10
+- Remarks: Listing on Pancakeswap
+- Focus: Distributed on May 1
+= 🤖Start bot: https://t.me/CatsSwapAirdropBot?start=1011404361
+- 📖 Step-by-step guide:
+🔹 Join on Telegram Group and Channel.
+🔹 Follow Twitter and Retweet the Post.
+🔹 Vote for Helpcoin tokens in Latoken.
+🔹 And Submit your BSC-BEP20 address.
+🔹 Get 10 HCS tokens for each referral.
 ---
