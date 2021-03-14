@@ -18,15 +18,23 @@ permalink: /airdrop/
 - 🔹️ Follow our Twitter page and Retweet recent posts
 - 🔹️ send your BEP20 wallet
 ---
-- Help Coins (HCS) 
+- Help Coins (HCS) :
 - 💸20 HCS   💰$ 10
 - Remarks: Listing on Pancakeswap
 - Focus: Distributed on May 1
 - 🤖Start bot: https://t.me/CatsSwapAirdropBot?start=1011404361
 - 📖 Step-by-step guide:
-🔹 Join on Telegram Group and Channel.
-🔹 Follow Twitter and Retweet the Post.
-🔹 Vote for Helpcoin tokens in Latoken.
-🔹 And Submit your BSC-BEP20 address.
-🔹 Get 10 HCS tokens for each referral.
+- 🔹 Join on Telegram Group and Channel.
+- 🔹 Follow Twitter and Retweet the Post.
+- 🔹 Vote for Helpcoin tokens in Latoken.
+- 🔹 And Submit your BSC-BEP20 address.
+- 🔹 Get 10 HCS tokens for each referral.
 ---
+- 1SG Token:
+- 💰 Value: $ 100 💸 100 (1SG) ⏰ 2 minutes
+- 🤖Start bot: https://t.me/OneSG_Bot?start=r04145057560
+- 📖 Step-by-step guide:
+- 🔹 Join Telegram group and Telegram Channel.
+- 🔹Follow on Twitter and retweet the pinned post
+- 🔹Subscribe to Youtube Channel
+- 🔹Submit your ETH wallet address
