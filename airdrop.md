@@ -37,7 +37,7 @@ permalink: /airdrop/
 ---
 - 1SG Token:
 - 💰 Value: $ 100 💸 100 (1SG) ⏰ 2 minutes
-- [🤖Start bot]https://t.me/OneSG_Bot?start=r04145057560
+- [🤖Start bot](https://t.me/OneSG_Bot?start=r04145057560)
 - 📖 Step-by-step guide:
 - 🔹 Join Telegram group and Telegram Channel.
 - 🔹Follow on Twitter and retweet the pinned post
