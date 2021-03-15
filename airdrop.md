@@ -11,8 +11,7 @@ permalink: /airdrop/
 - I wonder if it's a scam.
 - I have began to try the tronminer bot, it's so easy to earn a lot of TRON coin. without real mining, just click the bonus button will get 1 Tron per minute = 1440 Tron per day (if mining will get too many). 
 - Right now the market price of Tron is $0.05
-- Anyone want test can use my link: 
-- https://t.me/tronminr_bot?start=04145057560
+- [Anyone want test can use my link](https://t.me/tronminr_bot?start=04145057560)
 ---
 03/14/2021
 ---
