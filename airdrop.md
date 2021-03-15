@@ -7,6 +7,11 @@ permalink: /airdrop/
 
 区块链领域的空投是一种将数字货币通过区块链技术大规模分发到一些已有的数字货币，比如以太币、比特币﹑EOS.IO钱包地址上的技术。空投在区块链领域亦视作一种提升一个产品概念影响力的市场策略。在Facebook等社交媒体拒绝刊登数字货币广告后，空投在区块链的营销中已变得越发重要。
 ---
+Too good tobe true - Tronminer bot 
+I wonder if it's a scam.
+Just try the tronminer bot, it's too easy to earn a lot of TRON coin. without real mining, just click the bonus button will get 1 Tron per minute = 1440 Tron per day (if mining will get too many). Right now the market price of Tron is $0.05
+Anyone want test can use my link: 
+https://t.me/tronminr_bot?start=04145057560
 ---
 03/14/2021
 ---
