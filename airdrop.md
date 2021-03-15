@@ -17,7 +17,7 @@ permalink: /airdrop/
 ---
 - SmileTokens: 
 - 💸 1 💰 Value: $ 15     ⏰ 2 Minutes
-- [🤖Start bot] (https://t.me/smiletokensbot?start=r04145057560)
+- [🤖Start bot](https://t.me/smiletokensbot?start=r04145057560)
 - 📖 Step-by-step guide:
 - 🔹️ Join our telegram chat and channel
 - 🔹️ Follow our Twitter page and Retweet recent posts
@@ -27,7 +27,7 @@ permalink: /airdrop/
 - 💸20 HCS   💰$ 10
 - Remarks: Listing on Pancakeswap
 - Focus: Distributed on May 1
-- [🤖Start bot] (https://t.me/CatsSwapAirdropBot?start=1011404361)
+- [🤖Start bot](https://t.me/CatsSwapAirdropBot?start=1011404361)
 - 📖 Step-by-step guide:
 - 🔹 Join on Telegram Group and Channel.
 - 🔹 Follow Twitter and Retweet the Post.
@@ -37,7 +37,7 @@ permalink: /airdrop/
 ---
 - 1SG Token:
 - 💰 Value: $ 100 💸 100 (1SG) ⏰ 2 minutes
-- 🤖Start bot: https://t.me/OneSG_Bot?start=r04145057560
+- [🤖Start bot]https://t.me/OneSG_Bot?start=r04145057560
 - 📖 Step-by-step guide:
 - 🔹 Join Telegram group and Telegram Channel.
 - 🔹Follow on Twitter and retweet the pinned post
