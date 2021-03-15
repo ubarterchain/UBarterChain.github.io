@@ -33,7 +33,6 @@ permalink: /airdrop/
 - 🔹 Follow Twitter and Retweet the Post.
 - 🔹 Vote for Helpcoin tokens in Latoken.
 - 🔹 And Submit your BSC-BEP20 address.
-- 🔹 Get 10 HCS tokens for each referral.
 ---
 - 1SG Token:
 - 💰 Value: $ 100 💸 100 (1SG) ⏰ 2 minutes
