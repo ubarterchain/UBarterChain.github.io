@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 安装调试
-permalink: /install/
+permalink: /gui/
 ---
 ---
 
