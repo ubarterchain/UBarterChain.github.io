@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 物品介绍
-permalink: /list/
+permalink: /tokens/
 ---
 ---
 
