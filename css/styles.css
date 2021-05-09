@@ -99,7 +99,7 @@ footer{padding:50px 0}
 #skills li{display:inline-block;margin:7px;padding:5px 10px;color:#374054;background:#e4e4ea;list-style:none;cursor:default;font-size:1.2em}
 
 #contact{padding:50px 15px;background:#E9FABC;text-align:center}
-#contact h2{margin:0 0 15px 0;color:#fff;font-weight:500}
+#contact h2{margin:0 0 15px 0;color:#060604;font-weight:500}
 #contact-form{max-width:500px;margin:0 auto}
 #contact-form input,#contact-form textarea{display:block;width:100%;padding:10px;border-radius:4px;border:none;margin-bottom:10px;background:#1d6fa5;color:#fff;transition:.5s ease all}
 #contact-form input::-webkit-input-placeholder,#contact-form textarea::-webkit-input-placeholder{color:#fff}
