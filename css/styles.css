@@ -131,8 +131,8 @@ footer{padding:50px 0}
 
 @media only screen and (max-width: 992px){#home{height:auto;min-height:auto;max-height:auto;padding:100px 15px}
 #home-content{position:relative;transform:none;left:auto;top:auto}
-#home-content h1{font-size:3em}
-#home-content h2{font-size:1.75em}
+#home-content h1{font-size:2em}
+#home-content h2{font-size:1.5em}
 #about{text-align:center}
 #about p{text-align:left}}
 @media only screen and (max-width: 768px){header{position:fixed;display:none;z-index:999;animation:none;bottom:0;height:100%}
@@ -140,11 +140,11 @@ footer{padding:50px 0}
 #menu{height:100%;overflow-y:auto;box-shadow:none;border-radius:0;width:100%}
 #menu li{display:block;margin-bottom:10px}
 #home-content h1{font-size:2em}
-#home-content h2{font-size:1.3em}
+#home-content h2{font-size:1.5em}
 #home-content a{padding:10px 20px}
 #home-down{display:none}
 .education-block h3,.education-block span{float:none}
 .project-image{display:none}
 .project-info{position:relative;margin:0;padding:30px 15px;top:auto;transform:none}footer{text-align:center}
 .social{text-align:center}}
-@media only screen and (max-width: 480px){#home-content h1{font-size:1.5em}#home-content h2{font-size:1em}#home-content a{font-size:0.9em;padding:5px 10px}}
+@media only screen and (max-width: 480px){#home-content h1{font-size:2em}#home-content h2{font-size:1.5em}#home-content a{font-size:0.9em;padding:5px 10px}}
