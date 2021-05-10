@@ -55,7 +55,7 @@ footer{padding:50px 0}
 #home-content{position:absolute;z-index:10;top:50%;left:50%;transform:translate(-50%, -50%);text-align:center}
 #home-content h1,#home-content h2{margin:0}
 #home-content h1{color:#060606;font-weight:500;font-size:3em;letter-spacing:0.05em;line-height:0.9em}
-#home-content h2{color:#060606;font-weight:300;font-size:1.25em;margin-bottom:15px}
+#home-content h2{color:#060606;font-weight:300;font-size:1.5em;margin-bottom:15px}
 #home-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#F9E79F;z-index:1}
 #home-down{position:absolute;left:0;right:0;width:100%;text-align:center;z-index:10;bottom:15px;color:#060606}
 #home-down span{cursor:pointer;display:block;margin:0 auto;width:35px;height:35px;border-radius:50%;border:3px solid #a0cfee;text-align:center}
