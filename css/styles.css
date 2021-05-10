@@ -121,7 +121,7 @@ footer{padding:50px 0}
 .optional-section-block{max-width:700px;margin:0 auto 30px auto;padding:15px;border:1px solid #dcd9d9;background:#fff;text-align:left}
 .optional-section-block h3{font-weight:500;margin:0 0 15px 0;color:#060606}
 .optional-section-block h4{color:#060606;clear:both;font-weight:500;margin:0 0 15px 0}
-.optional-section-block p,.optional-section-block ul{margin:0 0 15px 0;color:#74808a;font-size:0.9em}
+.optional-section-block p,.optional-section-block ul{margin:0 0 15px 0;color:#fff;font-size:0.9em}
 .optional-section-block ul{padding:0 0 0 15px}
 
 @media only screen and (max-width: 750px){#experience-timeline:before,#experience-timeline:after{left:23px}
