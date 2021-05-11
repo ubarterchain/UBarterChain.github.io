@@ -68,7 +68,7 @@ footer{padding:5px 0}
 #txs-content h2{color:#060606;font-weight:300;font-size:1.5em;margin-bottom:15px}
 #txs-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
 
-#tokens{position:relative;height:85vh;min-height:500px;max-height:1080px;background:#e6f7ff;background-size:cover;padding:15px;overflow:hidden;text-align:center}
+#tokens{position:relative;height:85vh;min-height:100px;max-height:1080px;background:#e6f7ff;background-size:cover;padding:15px;overflow:hidden;text-align:center}
 #tokens-content{position:absolute;z-index:10;top:50%;left:50%;transform:translate(-50%, -50%);text-align:center}
 #tokens-content h1,#tokens-content h2{margin:0}
 #tokens-content h1{color:#060606;font-weight:500;font-size:2em;letter-spacing:0.05em;line-height:0.9em}
