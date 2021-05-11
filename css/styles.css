@@ -75,7 +75,7 @@ footer{padding:5px 0}
 #tokens-content h2{color:#060606;font-weight:300;font-size:1.5em;margin-bottom:15px}
 #tokens-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
 
-#gui{position:relative;height:85vh;min-height:1200px;max-height:2020px;background:#ffffe6;background-size:cover;padding:15px;overflow:hidden}
+#gui{position:relative;height:85vh;min-height:1100px;max-height:2020px;background:#ffffe6;background-size:cover;padding:15px;overflow:hidden}
 #gui-content{position:absolute;z-index:10;top:50%;left:50%;transform:translate(-50%, -50%);text-align:center}
 #gui-content h1,#gui-content h2{margin:0}
 #gui-content h1{color:#060606;font-weight:500;font-size:2em;letter-spacing:0.05em;line-height:0.9em}
