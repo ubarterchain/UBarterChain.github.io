@@ -86,7 +86,7 @@ footer{padding:5px 0}
 #how-content h2{color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 #how-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
 
-#contact{padding:50px 15px;background:#ffcccc;text-align:center}
+#contact{padding:45px 15px;background:#ffcccc;text-align:center}
 #contact-content h1,#contact-content h2{margin:0}
 #contact-content h2{color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 #contact-form{max-width:500px;margin:0 auto}
