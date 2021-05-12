@@ -51,18 +51,15 @@ footer{padding:5px 0}
 .heading:after{position:absolute;content:'';top:100%;height:1px;width:50px;left:0;right:0;margin:0 auto;background:#3498db}
 .background-alt{background:#f2f2f5}
 
-#home{position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffffe6;background-size:cover;padding:15px;overflow:hidden}
+#home{ position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffffe6;background-size:cover;padding:15px;overflow:hidden}
 #home-content{position:absolute;z-index:10;top:50%;left:50%;transform:translate(-50%, -50%);text-align:center}
 #home-content h1,#home-content h2{margin:0}
 #home-content h1{color:#060606;font-weight:500;font-size:2em;letter-spacing:0.05em;line-height:0.9em}
 #home-content h2{color:#060606;font-weight:300;font-size:1.5em;margin-bottom:15px}
 #home-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
-/*   #home-down{position:absolute;left:0;right:0;width:100%;text-align:center;z-index:10;bottom:15px;color:#060606}
-#home-down span{cursor:pointer;display:block;margin:0 auto;width:35px;height:35px;border-radius:50%;border:3px solid #a0cfee;text-align:center}
-#home-down i{animation:pulsate 1.5s ease;animation-iteration-count:infinite;padding-top:5px} */
 
-#txs{position:relative;height:85vh;min-height:500px;max-height:1080px;background:#fff;background-size:cover;padding:15px;overflow:hidden;text-align:center;}
-#txs-content{position:relative;top:80px;left:5%;right:5%}
+#txs{   position:relative;height:85vh;min-height:500px;max-height:1080px;background:#fff;background-size:cover;padding:15px;overflow:hidden;text-align:center;}
+#txs-content{   position:relative;top:80px;left:5%;right:5%}
 #txs-content h1,#txs-content h2{margin:0}
 #txs-content h1{color:#060606;font-weight:500;font-size:2em;letter-spacing:0.05em;line-height:0.9em}
 #txs-content h2{color:#060606;font-weight:300;font-size:1.5em;margin-bottom:15px}
@@ -75,15 +72,15 @@ footer{padding:5px 0}
 #tokens-content h2{color:#060606;font-weight:300;font-size:1.5em;margin-bottom:15px}
 #tokens-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
 
-#gui{position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffe6e6;background-size:cover;padding:15px;overflow:hidden;text-align:center}
-#gui-content{position:relative;top:80px;left:5%;right:5%}
+#gui{   position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffe6e6;background-size:cover;padding:15px;overflow:hidden;text-align:center}
+#gui-content{   position:relative;top:80px;left:5%;right:5%}
 #gui-content h1,#gui-content h2{margin:0}
 #gui-content h1{color:#060606;font-weight:500;font-size:2em;letter-spacing:0.05em;line-height:0.9em}
 #gui-content h2{color:#060606;font-weight:300;font-size:1.5em;margin-bottom:15px}
 #gui-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
 
-#how{position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffcccc;background-size:cover;padding:15px;overflow:hidden;text-align:center}
-#how-content{position:relative;top:80px;left:5%;right:5%}
+#how{   position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffcccc;background-size:cover;padding:15px;overflow:hidden;text-align:center}
+#how-content{   position:relative;top:80px;left:5%;right:5%}
 #how-content h1,#how-content h2{margin:0}
 #how-content h1{color:#060606;font-weight:500;font-size:2em;letter-spacing:0.05em;line-height:0.9em}
 #how-content h2{color:#060606;font-weight:300;font-size:1.5em;margin-bottom:15px}
