@@ -58,34 +58,26 @@ footer{padding:5px 0}
 
 #txs{   position:relative;height:85vh;min-height:500px;max-height:5080px;background:#fff;background-size:cover;padding:15px;overflow:hidden;text-align:left;}
 #txs-content{   position:relative;top:80px;left:10%;right:10%}
-#txs-content h1,#txs-content h2{margin:0}
-#txs-content h1{color:#060606;font-weight:500;font-size:2em;letter-spacing:0.05em;line-height:0.9em}
-#txs-content h2{color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
+#txs-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 #txs-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
 
 #tokens{position:relative;height:85vh;min-height:500px;max-height:5080px;background:#e6f7ff;background-size:cover;padding:15px;overflow:hidden;text-align:left;}
 #tokens-content{position:relative;top:80px;left:5%;right:5%}
-#tokens-content h1,#tokens-content h2{margin:0}
-#tokens-content h1{color:#060606;font-weight:500;font-size:2em;letter-spacing:0.05em;line-height:0.9em}
-#tokens-content h2{color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
+#tokens-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 #tokens-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
 
 #gui{   position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffe6e6;background-size:cover;padding:15px;overflow:hidden;text-align:left}
 #gui-content{   position:relative;top:80px;left:5%;right:5%}
-#gui-content h1,#gui-content h2{margin:0}
-#gui-content h1{color:#060606;font-weight:500;font-size:2em;letter-spacing:0.05em;line-height:0.9em}
-#gui-content h2{color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
+#gui-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 #gui-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
 
 #how{   position:relative;height:85vh;min-height:500px;max-height:5080px;background:#ffcccc;background-size:cover;padding:15px;overflow:hidden;text-align:left}
 #how-content{   position:relative;top:80px;left:5%;right:5%}
-#how-content h1,#how-content h2{margin:0}
-#how-content h1{color:#060606;font-weight:500;font-size:2em;letter-spacing:0.05em;line-height:0.9em}
-#how-content h2{color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
+#how-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 #how-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
 
 #contact{padding:50px 15px;background:#ffcccc;text-align:center}
-#contact-content h1,#contact-content h2{margin:0}
+#contact-content h2{margin:0}
 #contact-content h2{color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 #contact-form{max-width:500px;margin:0 auto}
 #contact-form input,#contact-form textarea{display:block;width:100%;padding:10px;border-radius:4px;border:none;margin-bottom:10px;background:#fff;color:#060606;transition:.5s ease all}
@@ -106,16 +98,13 @@ footer{padding:5px 0}
 .optional-section-block ul{padding:0 0 0 15px}
 
 
-
 @media only screen and (max-width: 750px){#experience-timeline:before,#experience-timeline:after{left:23px}
 .vtimeline-date{width:auto;text-align:left;position:relative;margin-bottom:15px;display:block;margin-left:70px}
 .vtimeline-icon{margin-left:0}
 .vtimeline-content{margin-left:70px}}
 
-
 @media only screen and (max-width: 992px){#home{height:auto;min-height:auto;max-height:auto;padding:100px 15px}
 #home-content{position:relative;transform:none;left:auto;top:auto}
-#home-content h1{font-size:2em}
 #home-content h2{font-size:1.5em}
 #about{text-align:center}
 #about p{text-align:left}}
@@ -123,7 +112,6 @@ footer{padding:5px 0}
 #mobile-menu-open,#mobile-menu-close{display:block}
 #menu{height:100%;overflow-y:auto;box-shadow:none;border-radius:0;width:100%}
 #menu li{display:block;margin-bottom:10px}
-#home-content h1{font-size:2em}
 #home-content h2{font-size:1.5em}
 #home-content a{padding:10px 20px}
 /*#home-down{display:none}
@@ -131,11 +119,10 @@ footer{padding:5px 0}
 .project-image{display:none}
 .project-info{position:relative;margin:0;padding:30px 15px;top:auto;transform:none}footer{text-align:center}
 .social{text-align:center}} */
-@media only screen and (max-width: 480px){#home-content h1{font-size:2em}#home-content h2{font-size:1.5em}#home-content a{font-size:0.9em;padding:5px 10px}} 
+@media only screen and (max-width: 480px){#home-content h2{font-size:1.5em}#home-content a{font-size:0.9em;padding:5px 10px}} 
 
 @media only screen and (max-width: 992px){#txs{height:auto;min-height:auto;max-height:auto;padding:100px 15px}
 #txs-content{position:relative;transform:none;left:auto;top:auto}
-#txs-content h1{font-size:2em}
 #txs-content h2{font-size:1.5em}
 #about{text-align:center}
 #about p{text-align:left}}
@@ -143,14 +130,12 @@ footer{padding:5px 0}
 #mobile-menu-open,#mobile-menu-close{display:block}
 #menu{height:100%;overflow-y:auto;box-shadow:none;border-radius:0;width:100%}
 #menu li{display:block;margin-bottom:10px}
-#txs-content h1{font-size:2em}
 #txs-content h2{font-size:1.5em}
 #txs-content a{padding:10px 20px}
-@media only screen and (max-width: 480px){#txs-content h1{font-size:2em}#txs-content h2{font-size:1.5em}#txs-content a{font-size:0.9em;padding:5px 10px}} 
+@media only screen and (max-width: 680px){#txs-content h2{font-size:1.5em}#txs-content a{font-size:0.9em;padding:5px 10px}} 
 
 @media only screen and (max-width: 992px){#tokens{height:auto;min-height:auto;max-height:auto;padding:100px 15px}
 #tokens-content{position:relative;transform:none;left:auto;top:auto}
-#tokens-content h1{font-size:2em}
 #tokens-content h2{font-size:1.5em}
 #about{text-align:center}
 #about p{text-align:left}}
@@ -158,14 +143,12 @@ footer{padding:5px 0}
 #mobile-menu-open,#mobile-menu-close{display:block}
 #menu{height:100%;overflow-y:auto;box-shadow:none;border-radius:0;width:100%}
 #menu li{display:block;margin-bottom:10px}
-#tokens-content h1{font-size:2em}
 #tokens-content h2{font-size:1.5em}
 #tokens-content a{padding:10px 20px}
-@media only screen and (max-width: 480px){#tokens-content h1{font-size:2em}#tokens-content h2{font-size:1.5em}#tokens-content a{font-size:0.9em;padding:5px 10px}} 
+@media only screen and (max-width: 480px){#tokens-content h2{font-size:1.5em}#tokens-content a{font-size:0.9em;padding:5px 10px}} 
 
 @media only screen and (max-width: 992px){#gui{height:auto;min-height:auto;max-height:auto;padding:100px 15px}
 #gui-content{position:relative;transform:none;left:auto;top:auto}
-#gui-content h1{font-size:2em}
 #gui-content h2{font-size:1.5em}
 #about{text-align:center}
 #about p{text-align:left}}
@@ -173,14 +156,12 @@ footer{padding:5px 0}
 #mobile-menu-open,#mobile-menu-close{display:block}
 #menu{height:100%;overflow-y:auto;box-shadow:none;border-radius:0;width:100%}
 #menu li{display:block;margin-bottom:10px}
-#gui-content h1{font-size:2em}
 #gui-content h2{font-size:1.5em}
 #gui-content a{padding:10px 20px}
-@media only screen and (max-width: 480px){#gui-content h1{font-size:2em}#gui-content h2{font-size:1.5em}#gui-content a{font-size:0.9em;padding:5px 10px}} 
+@media only screen and (max-width: 480px){#gui-content h2{font-size:1.5em}#gui-content a{font-size:0.9em;padding:5px 10px}} 
 
 @media only screen and (max-width: 992px){#how{height:auto;min-height:auto;max-height:auto;padding:100px 15px}
 #how-content{position:relative;transform:none;left:auto;top:auto}
-#how-content h1{font-size:2em}
 #how-content h2{font-size:1.5em}
 #about{text-align:center}
 #about p{text-align:left}}
@@ -188,7 +169,6 @@ footer{padding:5px 0}
 #mobile-menu-open,#mobile-menu-close{display:block}
 #menu{height:100%;overflow-y:auto;box-shadow:none;border-radius:0;width:100%}
 #menu li{display:block;margin-bottom:10px}
-#how-content h1{font-size:2em}
 #how-content h2{font-size:1.5em}
 #how-content a{padding:10px 20px}
-@media only screen and (max-width: 480px){#how-content h1{font-size:2em}#how-content h2{font-size:1.5em}#how-content a{font-size:0.9em;padding:5px 10px}} 
+@media only screen and (max-width: 480px){#how-content h2{font-size:1.5em}#how-content a{font-size:0.9em;padding:5px 10px}} 
