@@ -53,9 +53,7 @@ footer{padding:5px 0}
 
 #home{ position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffffe6;background-size:cover;padding:15px;overflow:hidden}
 #home-content{position:absolute;z-index:10;top:40%;left:50%;transform:translate(-50%, -50%);text-align:center}
-#home-content h1,#home-content h2{margin:0}
-#home-content h1{color:#060606;font-weight:500;font-size:2em;letter-spacing:0.05em;line-height:0.9em}
-#home-content h2{color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
+#home-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 #home-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
 
 #txs{   position:relative;height:85vh;min-height:500px;max-height:5080px;background:#fff;background-size:cover;padding:15px;overflow:hidden;text-align:left;}
