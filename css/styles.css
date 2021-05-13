@@ -69,7 +69,7 @@ footer{padding:5px 0}
 #gui-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 
 #how{   position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffcccc;background-size:cover;padding:15px;overflow:hidden;text-align:left}
-#how-content{   position:relative;top:80px;left:1%;right:1%}
+#how-content{   position:relative;top:20px;left:1%;right:1%}
 #how-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 
 #contact{padding:50px 15px;background:#ffcccc;text-align:center}
