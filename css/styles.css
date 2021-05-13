@@ -54,7 +54,7 @@ footer{padding:5px 0}
 #home{ position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffffe6;background-size:cover;padding:15px;overflow:hidden;text-align:center}
 #home-content{ position:relative;top:80px;left:1%;right:1%}
 #home-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
-#home-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
+
 
 #txs{   position:relative;height:85vh;min-height:500px;max-height:5080px;background:#fff;background-size:cover;padding:15px;overflow:hidden;text-align:left;}
 #txs-content{   position:relative;top:80px;left:10%;right:10%}
@@ -64,17 +64,17 @@ footer{padding:5px 0}
 #tokens{position:relative;height:85vh;min-height:500px;max-height:5080px;background:#e6f7ff;background-size:cover;padding:15px;overflow:hidden;text-align:left;}
 #tokens-content{position:relative;top:80px;left:1%;right:1%}
 #tokens-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
-#tokens-overlay{position:relative;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
+
 
 #gui{   position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffe6e6;background-size:cover;padding:15px;overflow:hidden;text-align:left}
 #gui-content{   position:relative;top:80px;left:5%;right:5%}
 #gui-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
-#gui-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
+
 
 #how{   position:relative;height:85vh;min-height:500px;max-height:1080px;background:#ffcccc;background-size:cover;padding:15px;overflow:hidden;text-align:left}
 #how-content{   position:relative;top:80px;left:5%;right:5%}
 #how-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
-#how-overlay{position:absolute;height:100%;width:100%;top:0;right:0;bottom:0;left:0;background:#ffffe6;z-index:1}
+
 
 #contact{padding:50px 15px;background:#ffcccc;text-align:center}
 #contact-content h2{margin:0}
@@ -89,13 +89,7 @@ footer{padding:5px 0}
 #contact-form textarea{height:200px;resize:both;overflow:auto;}
 #contact-form button{display:block;width:100%;background:#fff;border-radius:4px;padding:5px 10px;border:none;color:#060606;font-weight:700;box-shadow:0 1px 3px rgba(0,0,0,0.12),0 1px 2px rgba(0,0,0,0.24);transition:.5s ease all}
 #contact-form button:hover{box-shadow:0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23)}
-.optional-section{padding:50px 15px;text-align:center;border-top:1px solid #dcd9d9}
-.optional-section h2{color:#060606}
-.optional-section-block{max-width:700px;margin:0 auto 30px auto;padding:15px;border:1px solid #dcd9d9;background:#fff;text-align:left}
-.optional-section-block h3{font-weight:500;margin:0 0 15px 0;color:#060606}
-.optional-section-block h4{color:#060606;clear:both;font-weight:500;margin:0 0 15px 0}
-.optional-section-block p,.optional-section-block ul{margin:0 0 15px 0;color:#060606;font-size:0.9em}
-.optional-section-block ul{padding:0 0 0 15px}
+
 
 
 @media only screen and (max-width: 750px){#experience-timeline:before,#experience-timeline:after{left:23px}
