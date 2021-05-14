@@ -34,7 +34,7 @@
                         <h3>There are four subpages in account page: Checking; Transaction; Summary; Encryption</h3>
                         <OL>
                             <LI>Checking subpage:<a href="setting.html"> manage all the checks that belong to you.</a></LI>
-                                <UL>
+                                <UL style="list-style-type:square">
                                     <LI>Get all owned check - double click the tag of "Checking" subpage or click "Renew Checks" button.</LI>
                                     <LI>Open collector check table - click "Collector Checks" button.</LI>           
                                     <LI>Open your account - input your account password; click "Open" button.</LI>                      
@@ -47,32 +47,18 @@
                                     <LI>Save a check into your node - input a check; click "Check" button.</LI>
                                 </UL>
                             <li>Transaction subpage:<a href="account.html"> setup your account</a> </li>
-                                <UL>
-                       在2里输入代币代码；或输入“#get”和一个数量；或输入“#skip”和一个数字；或输入“#watch”；点击“查询交易”； 
-                                      将在1里显示出相应代币代币的，指定数量的，不包括指定数字的前几个的，包括与观察性支票关联的全部交易。
-                       没有任何输入； 点击“查询交易”；将在1里显示出所有与自己有关联的最近的十个交易。                                
-                                    <LI>Clean blocking nodes list - click "Clean Blocking" button.</LI>
-                                    <LI>Open connection nodes list - click "Connection List" button.</LI>
+                                <UL style="list-style-type:square">                                
+                                    <LI>Search the info of TXs - input any combination of token symbol, amount, "#skip" plus tobe skiped number, "#watch"; click "Get TXs" button.</LI>
+                                    <LI>Search most recently 10 TXs - without any input, click "Get TXs" button.</LI>
                                 </UL>
                             <li>Summary subpage:<a href="market.html"> setup your local node</a> </li>
-                                <UL>
-                                    双击“账户总汇”标签栏；将显示该节点拥有的，可使用的，全部的代币总汇。
-                                    <LI>Open connection nodes list - click "Connection List" button.</LI>
+                                <UL style="list-style-type:square">
+                                    <LI>Show the summary of your account - double click the tab of "Summary" subpage.</LI>
                                 </UL>
                             <li>Encryption subpage:<a href="market.html"> setup your local node</a> </li>
-                                <UL>
-                                    <LI>Blocking nodes setting</LI>
-                                        <ul style="list-style-type:square">
-                                            <LI>Add a node to blocking list - (1) input the node address tobe blocked; (2) input the seconds tobe blocked; click "Modify Blocking List" botton.</LI>       
-                                            <LI>Delete a node from blocking list - (1) input "-" plus the node address tobe deleted from blocking list; click "Modify Blocking List" botton.</LI>                                      
-                                        </ul>
-                                    <LI>Connection nodes setting</LI>
-                                        <ul style="list-style-type:square">
-                                            <LI>Add a node to connection list - (3) input the node address tobe connected; click "Modify Connection List" botton.</LI>       
-                                            <LI>Delete a node from connection list - (3) input "-" plus the node address tobe deleted from connection list; click "Modify Connection List" botton.</LI></LI>                                                
-                                        </ul>                                   
-信息加密过程如下：  在1里输入本节点拥有的支票代码；在2里输入想要加密的信息；在5里输入账户启用密码；点击“启用账户”；点击“加密信息”；将在4里显示出信息加密的结果-密语。
-验证密语过程如下：  在1里输入本节点拥有的支票代码；在2里输入加密用的信息；在3里输入需要验证的密语；在5里输入账户启用密码；点击“启用账户”；点击“加密信息”；将在4里显示出密语验证的结果。
+                                <UL style="list-style-type:square">
+                                    <LI>Encrupt a message to get cryptolalia - (1) input one your check id; (2) input the message; (5) open your account; click "Encrypt" button.</LI>
+                                    <LI>Verify the cryptolalia of a message - (1) input one your check id; (2) input the message; (3) input the cryptolalia; (5) open your account; click "Verify" button.</LI>
                                 </UL>
                         </OL>
                     </th> 
