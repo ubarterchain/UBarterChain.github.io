@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
 
 <head>
-    <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>Using GUI</title>
+    <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>Account Page</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> <link rel="icon" href="favicon.ico" type="image/x-icon"> <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet"> <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css"> <link href="css/bootstrap.min.css" rel="stylesheet"> <link href="css/styles.css" rel="stylesheet">  
 </head>
 
@@ -13,18 +13,95 @@
         <ul id="menu" class="shadow">    <li> <a href="index.html">Home</a> </li>  <li> <a href="txs.html">TXs</a> </li>  <li> <a href="tokens.html">Tokens</a> </li>  <li> <a href="gui.html">GUI</a> </li>  <li> <a href="how.html">How</a> </li>  <li> <a href="contact.html">Contact</a> </li>      </ul>
     </header>    <!-- End header -->
             <h5 id="menu" class="shadow">   <li> <a href="setting.html">&emsp;Setting</a>&emsp;<a href="browser.html">Browser</a>&emsp;<a href="account.html">Account</a>&emsp;<a href="market.html">Market</a>&emsp;<a href="bbs.html">BBS</a> </li>    </h5>  
-    <div id="gui">
-        <div id="gui-content">   
-            <h2><a id="user-content---How to use the GUI" class="anchor" href="https://github.com/ubarterchain/UBarterChain.github.io/blob/main/gui.md#--%E5%AE%89%E8%A3%85%E8%B0%83%E8%AF%95" aria-hidden="true"></a>&emsp;&emsp;Learn to Barter</h2>       
+    <div id="account">
+        <div id="account-content">               
+            <h2><a id="user-content---How to use the GUI" class="anchor" href="https://github.com/ubarterchain/UBarterChain.github.io/blob/main/gui.md#--%E5%AE%89%E8%A3%85%E8%B0%83%E8%AF%95" aria-hidden="true"></a>&emsp;&emsp;Account Page</h2>       
              <table>
                 <tr>                        
                     <th>
-                        <p>There are five parts in barterone blockchain GUI as following:</p>
-                        <li><a href="setting.html">Setting Page</a> - the place to set your GUI and account. </li>
-                        <li><a href="browser.html">Browser Page</a> - the place to research info about every barter transaction. </li>
-                        <li><a href="account.html">Account Page</a> - your account. </li>
-                        <li><a href="market.html">Market Page</a> - the place to barter any products. </li>
-                        <li><a href="bbs.html">BBS Page</a> - the place to public info. </li>
+<!--<OL>
+    <LI>Main Heading</LI>
+        <UL>
+            <LI>List item 1</LI>
+            <LI>List item 2</LI>
+        </UL>
+    <LI>Secondary Heading</LI>
+        <UL>
+            <LI>List item 1</LI>
+            <LI>List item 2</LI>
+        </UL>
+</OL>-->
+                        <h3>There are four subpages in Setting page: Welcome, Blockchain; Account; Node</h3>
+                        <OL>
+                            <LI>Blockchain subpage:<a href="setting.html"> learn about the operation of barterone blockchain</a></LI>
+                                <UL>
+                                    <LI>Blocking nodes setting</LI>
+                                        <ul style="list-style-type:square">
+                                            <LI>Add a node to blocking list - (1) input the node address tobe blocked; (2) input the seconds tobe blocked; click "Modify Blocking List" botton.</LI>       
+                                            <LI>Delete a node from blocking list - (1) input "-" plus the node address tobe deleted from blocking list; click "Modify Blocking List" botton.</LI>                                      
+                                        </ul>
+                                    <LI>Connection nodes setting</LI>
+                                        <ul style="list-style-type:square">
+                                            <LI>Add a node to connection list - (3) input the node address tobe connected; click "Modify Connection List" botton.</LI>       
+                                            <LI>Delete a node from connection list - (3) input "-" plus the node address tobe deleted from connection list; click "Modify Connection List" botton.</LI></LI>                                                
+                                        </ul>                                   
+                                    <LI>Stop a connection node - input node's address; click "Stop Connection" button.</LI>
+                                    <LI>Open blocking nodes list - click "Blocking List" button.</LI>
+                                    <LI>Clean blocking nodes list - click "Clean Blocking" button.</LI>
+                                    <LI>Open connection nodes list - click "Connection List" button.</LI>
+                                </UL>
+                            <li>Account subpage:<a href="account.html"> setup your account</a> </li>
+                                <UL>
+                                    <LI>Blocking nodes setting</LI>
+                                        <ul style="list-style-type:square">
+                                            <LI>Add a node to blocking list - (1) input the node address tobe blocked; (2) input the seconds tobe blocked; click "Modify Blocking List" botton.</LI>       
+                                            <LI>Delete a node from blocking list - (1) input "-" plus the node address tobe deleted from blocking list; click "Modify Blocking List" botton.</LI>                                      
+                                        </ul>
+                                    <LI>Connection nodes setting</LI>
+                                        <ul style="list-style-type:square">
+                                            <LI>Add a node to connection list - (3) input the node address tobe connected; click "Modify Connection List" botton.</LI>       
+                                            <LI>Delete a node from connection list - (3) input "-" plus the node address tobe deleted from connection list; click "Modify Connection List" botton.</LI></LI>                                                
+                                        </ul>                                   
+                                    <LI>Stop a connection node - input node's address; click "Stop Connection" button.</LI>
+                                    <LI>Open blocking nodes list - click "Blocking List" button.</LI>
+                                    <LI>Clean blocking nodes list - click "Clean Blocking" button.</LI>
+                                    <LI>Open connection nodes list - click "Connection List" button.</LI>
+                                </UL>
+                            <li>Node subpage:<a href="market.html"> setup your local node</a> </li>
+                                <UL>
+                                    <LI>Blocking nodes setting</LI>
+                                        <ul style="list-style-type:square">
+                                            <LI>Add a node to blocking list - (1) input the node address tobe blocked; (2) input the seconds tobe blocked; click "Modify Blocking List" botton.</LI>       
+                                            <LI>Delete a node from blocking list - (1) input "-" plus the node address tobe deleted from blocking list; click "Modify Blocking List" botton.</LI>                                      
+                                        </ul>
+                                    <LI>Connection nodes setting</LI>
+                                        <ul style="list-style-type:square">
+                                            <LI>Add a node to connection list - (3) input the node address tobe connected; click "Modify Connection List" botton.</LI>       
+                                            <LI>Delete a node from connection list - (3) input "-" plus the node address tobe deleted from connection list; click "Modify Connection List" botton.</LI></LI>                                                
+                                        </ul>                                   
+                                    <LI>Stop a connection node - input node's address; click "Stop Connection" button.</LI>
+                                    <LI>Open blocking nodes list - click "Blocking List" button.</LI>
+                                    <LI>Clean blocking nodes list - click "Clean Blocking" button.</LI>
+                                    <LI>Open connection nodes list - click "Connection List" button.</LI>
+                                </UL>
+                            <li>Node subpage:<a href="market.html"> setup your local node</a> </li>
+                                <UL>
+                                    <LI>Blocking nodes setting</LI>
+                                        <ul style="list-style-type:square">
+                                            <LI>Add a node to blocking list - (1) input the node address tobe blocked; (2) input the seconds tobe blocked; click "Modify Blocking List" botton.</LI>       
+                                            <LI>Delete a node from blocking list - (1) input "-" plus the node address tobe deleted from blocking list; click "Modify Blocking List" botton.</LI>                                      
+                                        </ul>
+                                    <LI>Connection nodes setting</LI>
+                                        <ul style="list-style-type:square">
+                                            <LI>Add a node to connection list - (3) input the node address tobe connected; click "Modify Connection List" botton.</LI>       
+                                            <LI>Delete a node from connection list - (3) input "-" plus the node address tobe deleted from connection list; click "Modify Connection List" botton.</LI></LI>                                                
+                                        </ul>                                   
+                                    <LI>Stop a connection node - input node's address; click "Stop Connection" button.</LI>
+                                    <LI>Open blocking nodes list - click "Blocking List" button.</LI>
+                                    <LI>Clean blocking nodes list - click "Clean Blocking" button.</LI>
+                                    <LI>Open connection nodes list - click "Connection List" button.</LI>
+                                </UL>
+                        </OL>
                     </th> 
                 </tr>
             </table>         
