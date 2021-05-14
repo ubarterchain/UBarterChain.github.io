@@ -75,6 +75,10 @@ footer{padding:5px 0}
 #setting-content{   position:relative;top:1%;left:1%;right:1%}
 #setting-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 
+#browser{   position:relative;height:10vh;min-height:1850px;max-height:5080px;background:#ffffe6;background-size:cover;padding:15px;overflow:hidden;text-align:left}
+#browser-content{   position:relative;top:1%;left:1%;right:1%}
+#browser-content h2{margin:0; color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
+
 #contact{padding:50px 15px;background:#ffcccc;text-align:center}
 #contact-content h2{margin:0;color:#060606;font-weight:500;font-size:1.5em;margin-bottom:15px}
 #contact-form{max-width:500px;margin:0 auto}
