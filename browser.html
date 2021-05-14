@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html class="no-js" lang="en">
-
 <head>
-    <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>Using GUI</title>
+    <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>Browser Page</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> <link rel="icon" href="favicon.ico" type="image/x-icon"> <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet"> <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css"> <link href="css/bootstrap.min.css" rel="stylesheet"> <link href="css/styles.css" rel="stylesheet">  
 </head>
 
@@ -13,18 +10,72 @@
         <ul id="menu" class="shadow">    <li> <a href="index.html">Home</a> </li>  <li> <a href="txs.html">TXs</a> </li>  <li> <a href="tokens.html">Tokens</a> </li>  <li> <a href="gui.html">GUI</a> </li>  <li> <a href="how.html">How</a> </li>  <li> <a href="contact.html">Contact</a> </li>      </ul>
     </header>    <!-- End header -->
             <h5 id="menu" class="shadow">   <li> <a href="setting.html">&emsp;Setting</a>&emsp;<a href="browser.html">Browser</a>&emsp;<a href="account.html">Account</a>&emsp;<a href="market.html">Market</a>&emsp;<a href="bbs.html">BBS</a> </li>    </h5>  
-    <div id="gui">
-        <div id="gui-content">   
-            <h2><a id="user-content---How to use the GUI" class="anchor" href="https://github.com/ubarterchain/UBarterChain.github.io/blob/main/gui.md#--%E5%AE%89%E8%A3%85%E8%B0%83%E8%AF%95" aria-hidden="true"></a>&emsp;&emsp;Learn to Barter</h2>       
+    <div id="setting">
+        <div id="setting-content">               
+            <h2><a id="user-content---How to use the GUI" class="anchor" href="https://github.com/ubarterchain/UBarterChain.github.io/blob/main/gui.md#--%E5%AE%89%E8%A3%85%E8%B0%83%E8%AF%95" aria-hidden="true"></a>&emsp;&emsp;Browser Page</h2>       
              <table>
                 <tr>                        
                     <th>
-                        <p>There are five parts in barterone blockchain GUI as following:</p>
-                        <li><a href="setting.html">Setting Page</a> - the place to setup or learn your GUI and account. </li>
-                        <li><a href="browser.html">Browser Page</a> - the place to research info about every barter transaction. </li>
-                        <li><a href="account.html">Account Page</a> - your account. </li>
-                        <li><a href="market.html">Market Page</a> - the place to barter any products. </li>
-                        <li><a href="bbs.html">BBS Page</a> - the place to public info. </li>
+<!--<OL>
+    <LI>Main Heading</LI>
+        <UL>
+            <LI>List item 1</LI>
+            <LI>List item 2</LI>
+        </UL>
+    <LI>Secondary Heading</LI>
+        <UL>
+            <LI>List item 1</LI>
+            <LI>List item 2</LI>
+        </UL>
+</OL>-->
+                        <h3>There are two subpages in browser page: Search engine, Listing products</h3>
+                        <OL>
+                            <li>Search engine subpage:<a href="market.html"> search information about transactions (TXs) in whole blockchain or local node's mempool.</a> </li>
+                                <UL>
+                                    <LI>Search blockchain</LI>
+                                        <ul style="list-style-type:square">
+                                            <LI>Search info of a TX - (1) input the TXID; click "Search" botton.</LI>
+                                            <LI>Search info of a block related to a TX - after find the info of a tx, click "Search" botton.</LI>
+                                            <LI>Search info of the newest block - input nothing or "-"; click "Search" botton.</LI>       
+                                            <LI>Search info of a block - input block hash or specified block height; click "Search" botton.</LI>  
+                                            <LI>Search info of next block - after find one block, click "Search" botton.</LI>                                    
+                                        </ul>
+                                    <LI>Search node's mempool</LI>
+                                        <ul style="list-style-type:square">
+                                            <LI>Add a node to connection list - (3) input the node address tobe connected; click "Modify Connection List" botton.</LI>       
+                                            <LI>Delete a node from connection list - (3) input "-" plus the node address tobe deleted from connection list; click "Modify Connection List" botton.</LI></LI>
+                                            <LI>Delete a node from blocking list - (1) input "-" plus the node address tobe deleted from blocking list; click "Modify Blocking List" botton.</LI>                                                   
+                                        </ul>                                   
+                                </UL>
+                            <LI>Barterable list subpage:<a href="setting.html"> learn about the operation of barterone blockchain</a></LI>
+                                <UL>
+                                    <LI>Click the "Chain" button to show the setting of barterone blockchain.</LI>
+                                    <LI>Click the "Pool" button to show the setting of the tx mempool of local node.</LI>
+                                    <LI>Click the "Storage" button to show the setting of the storage setting of locak node.</LI>
+                                    <LI>Click the "Network" button to show the setting of the network setting of locak node.</LI>
+                                    <LI>Click the "Configure" button to open the configure file.</LI>
+                                    <LI>Click the "Debug" button to open the debug file.</LI>
+                                </UL>
+                      在7里输入“区块高度”后；点击“搜寻信息”；将获得指定高度区块的信息。
+
+                      在7里输入“区块代码”后；点击“搜寻信息”；将获得相应区块的信息。
+
+                      在搜索获得一个区块后，点击“搜寻信息”；将获得前一区块的信息。
+
+                      在7里输入“交易代码”后；点击“搜寻信息”；将获得相应交易的信息。
+
+                      在搜索获得一个交易后，点击“搜寻信息”；将获得该交易对应区块的信息。
+
+搜寻本节点交易池过程如下：
+
+                         没有任何输入；直接点击“搜寻交易”；将获得所有可以交换交易的信息。
+
+                       在1上选择，或在2里输入代币代码，或在3输入求购的数量；在4上选择，或在5里输入代币代码，
+
+                                                 或在6输入求购的数量；点击“搜寻交易”；将获得相应的交易。
+
+                       双击“搜寻”分页的标签栏； 将获得交易池里所有各类交易的信息。
+                        </OL>
                     </th> 
                 </tr>
             </table>         
